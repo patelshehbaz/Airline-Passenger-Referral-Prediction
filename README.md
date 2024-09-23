@@ -47,7 +47,7 @@ conda deactivate
 
 ## Tech Stack
 
-• Python: Core programming language used.
-• Machine Learning: For building the predictive model.
-• Azure: Used as the database to store and manage data.
-• Gradio: Interactive UI for model prediction.
+- Python: Core programming language used.
+- Machine Learning: For building the predictive model.
+- Azure: Used as the database to store and manage data.
+- Gradio: Interactive UI for model prediction.
